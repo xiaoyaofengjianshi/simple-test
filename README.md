@@ -1,2 +1,2 @@
 # simple-test
-# just test 只是一个测试
+# 点击对应exe文件就可查看……虽然并没有什么用（？）
